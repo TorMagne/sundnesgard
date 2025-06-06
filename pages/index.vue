@@ -29,8 +29,11 @@
   </nav>
   <main class="mx-auto">
     <!-- hero -->
-    <section class="mb-20 py-10 mb:py-0">
-      <div class="hero min-h-[80vh] bg-base-200">
+    <section class="mb-20">
+      <div
+        class="hero bg-base-200"
+        :style="`min-height: calc((var(--vh) * 100) - ${navbarHeight}px)`"
+      >
         <div class="container max-auto px-4 gap-20 flex flex-col md:flex-row-reverse">
           <!-- Bildeside -->
           <div class="w-full lg:w-1/2">
@@ -228,6 +231,19 @@ useHead({
     class: 'scroll-smooth',
   },
 });
+
+// Definer navbar-høyde i piksler (tilsvarer h-16 = 64px)
+const navbarHeight = 80;
+
+// Kun kjøre i nettleser, ikke på serveren
+if (process.client) {
+  const setVh = () => {
+    const vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+  };
+  window.addEventListener('resize', setVh);
+  setVh();
+}
 
 const currentYear = new Date().getFullYear();
 </script>
