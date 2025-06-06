@@ -29,7 +29,7 @@
   </nav>
   <main class="mx-auto">
     <!-- hero -->
-    <section class="mb-20">
+    <section class="mb-20 py-10 mb:py-0">
       <div class="hero min-h-[80vh] bg-base-200">
         <div class="container max-auto px-4 gap-20 flex flex-col md:flex-row-reverse">
           <!-- Bildeside -->
