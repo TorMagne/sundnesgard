@@ -30,7 +30,7 @@
   <main class="mx-auto">
     <!-- hero -->
     <section class="mb-20">
-      <div class="hero h-[calc(min-h-screen-80px)] bg-base-200">
+      <div class="hero min-h-[calc(100vh-80px)] bg-base-200">
         <div class="container max-auto px-4 gap-20 flex flex-col md:flex-row-reverse">
           <!-- Bildeside -->
           <div class="w-full lg:w-1/2">
