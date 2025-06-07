@@ -47,8 +47,8 @@
               Velkommen til Sundnes Gård – et unikt sted for uforglemmelige øyeblikk.
             </h1>
             <p class="py-6">
-              Vi tilbyr arrangering av selskaper, konfirmasjoner, minnesamvær og andre arrangementer
-              i rolige, landlige omgivelser.
+              Vi tilbyr arrangering av selskaper, konfirmasjoner, minnesamvær, barnedåper og andre
+              arrangementer i rolige, landlige omgivelser.
             </p>
             <div>
               <a
@@ -81,7 +81,7 @@
       </p>
       <p class="break-normal text-gray-500 opacity-90">
         Den unike, personlige gårdssjarmen gir en varm ramme for selskap, konfirmasjon, minnesamvær
-        og firmaarrangement, og legger til rette for uforglemmelige opplevelser.
+        og andre arrangementer. Vi legger til rette for uforglemmelige opplevelser.
       </p>
       <p class="break-normal text-gray-500 opacity-90">
         Alt fra lokal kulturarv og levende historiefortellinger til storslått natur gjør Sundnes
@@ -99,9 +99,9 @@
             arrangementer.
           </p>
           <p class="break-normal text-gray-500 opacity-90">
-            Lokalene passer for grupper fra 10 til 150 personer og egner seg perfekt til alt fra
-            konfirmasjoner, firmaarrangementer og minnesamvær til slektsstevner, grillfester,
-            pensjonisttreff og barnehagebesøk.
+            Lokalene passer for grupper fra 10 til 80 personer og egner seg perfekt til alt fra
+            konfirmasjoner, barnedåper og minnesamvær til slektsstevner, pensjonisttreff, og
+            barneselskap.
           </p>
           <p class="break-normal text-gray-500 opacity-90">
             Vi serverer kortreist, norsk mat – og vårt engasjerte vertskap legger vekt på varme og
