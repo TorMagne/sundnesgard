@@ -47,8 +47,8 @@
               Velkommen til Sundnes Gård – et unikt sted for uforglemmelige øyeblikk.
             </h1>
             <p class="py-6">
-              Vi tilbyr utleie til bryllup, konfirmasjoner, bursdager og andre arrangement i rolige,
-              landlige omgivelser.
+              Vi tilbyr arrangering av selskaper, konfirmasjoner, minnesamvær og andre arrangementer
+              i rolige, landlige omgivelser.
             </p>
             <div>
               <a
@@ -77,16 +77,15 @@
         >
       </p>
       <p class="break-normal text-gray-500 opacity-90">
-        Her drives allsidig utleie av selskaps- og møtelokaler i historiske omgivelser fra tidlig
-        1700-tallet.
+        Her har vi selskaps- og møtelokaler i historiske omgivelser fra tidlig 1700-tall.
       </p>
       <p class="break-normal text-gray-500 opacity-90">
-        Den unike, personlige gårdssjarmen gir en varm ramme for bryllup, konfirmasjon, bursdager og
-        firmaarrangement, og legger til rette for uforglemmelige opplevelser.
+        Den unike, personlige gårdssjarmen gir en varm ramme for selskap, konfirmasjon, minnesamvær
+        og firmaarrangement, og legger til rette for uforglemmelige opplevelser.
       </p>
       <p class="break-normal text-gray-500 opacity-90">
         Alt fra lokal kulturarv og levende historiefortellinger til storslått natur gjør Sundnes
-        Gård til det lille ekstra for alle gjester
+        Gård til det lille ekstra for alle gjester.
       </p>
     </section>
     <!-- selskap -->
@@ -95,17 +94,18 @@
         <!-- Tekstside -->
         <div class="flex flex-col justify-center gap-2">
           <h2 class="text-3xl lg:text-5xl font-bold mb-4">Selskap</h2>
-          <p>
-            Sundnes Gård har gleden av å tilby utleie av selskapslokaler tilpasset ulike typer
+          <p class="break-normal text-gray-500 opacity-90">
+            Sundnes Gård har gleden av å arrangere selskaper i lokaler tilpasset ulike typer
             arrangementer.
           </p>
-          <p>
-            Lokalene passer for grupper fra 10 og opp til 150 personer, og egner seg godt til alt
-            fra jubileumsfester, bryllup og konfirmasjoner, til slektsstevner, grillfester,
+          <p class="break-normal text-gray-500 opacity-90">
+            Lokalene passer for grupper fra 10 og opp til 150 personer, og egner seg perfekt til alt
+            fra konfirmasjoner, firmaarrangementer og minnesamvær til slektsstevner, grillfester,
             pensjonisttreff og barnehagebesøk.
           </p>
-          <p>
-            Vi tilbyr kortreist, norsk mat – og et vertskap som legger vekt på varme og kvalitet.
+          <p class="break-normal text-gray-500 opacity-90">
+            Vi serverer kortreist, norsk mat – og vårt engasjerte vertskap legger vekt på varme og
+            kvalitet.
           </p>
         </div>
 
