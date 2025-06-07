@@ -99,8 +99,8 @@
             arrangementer.
           </p>
           <p class="break-normal text-gray-500 opacity-90">
-            Lokalene passer for grupper fra 10 og opp til 150 personer, og egner seg perfekt til alt
-            fra konfirmasjoner, firmaarrangementer og minnesamvær til slektsstevner, grillfester,
+            Lokalene passer for grupper fra 10 til 150 personer og egner seg perfekt til alt fra
+            konfirmasjoner, firmaarrangementer og minnesamvær til slektsstevner, grillfester,
             pensjonisttreff og barnehagebesøk.
           </p>
           <p class="break-normal text-gray-500 opacity-90">
