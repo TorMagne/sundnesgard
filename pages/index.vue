@@ -141,7 +141,7 @@
               />
             </svg>
             <a href="mailto:post@sundesgard.no" class="break-words hover:underline"
-              >post@sundesgard.no</a
+              >post@sundnesgard.no</a
             >
           </p>
 
