@@ -140,7 +140,7 @@
                 clip-rule="evenodd"
               />
             </svg>
-            <a href="mailto:post@sundesgard.no" class="break-words hover:underline"
+            <a href="mailto:post@sundnesgard.no" class="break-words hover:underline"
               >post@sundnesgard.no</a
             >
           </p>
